@@ -20,6 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 <img src="https://imgur.com/a/ytuD72l" width=250><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ytuD72l" data-context="false" ><a href="//imgur.com/a/ytuD72l"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Notes
 When adding pictures/title/overview to the relative layout, it wasn't clear that you need to click on the root relative layout to add the compenents correctly.
